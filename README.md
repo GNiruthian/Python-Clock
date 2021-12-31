@@ -1,4 +1,4 @@
 # Python-Clock
 
 Python Clock
-GUI
+GUI tkinter
